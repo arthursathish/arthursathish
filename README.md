@@ -32,7 +32,7 @@ Most of my serious work lives in private repos, but I'm working on pushing more 
 
 ## What I'm building
 
-**[APKTemplates](https://apktemplates.com)** — WordPress themes built specifically for APK, mod, and download sites. I handle everything: theme development, the Next.js storefront, payment integrations (Paddle, PayPal, PhonePe), and server management.
+**[APKTemplates](https://apktemplates.com)** - WordPress themes built specifically for APK, mod, and download sites. I handle everything: theme development, the Next.js storefront, payment integrations (Paddle, PayPal, PhonePe), and server management.
 
 Also working on a SaaS tool for APK site owners to automate content generation from Google Play Store URLs.
 
