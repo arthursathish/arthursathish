@@ -1,6 +1,6 @@
 # Hey, I'm Sathish Kumar 👋
 
-Full Stack Developer based in Chennai, India. I build web apps and WordPress solutions, and I run [APKTemplates](https://apktemplates.com) — a WordPress theme store for APK and download platforms.
+Full Stack Developer based in Chennai, India. I build web apps and WordPress solutions, and I run [APKTemplates](https://apktemplates.com) - a WordPress theme store for APK and download platforms.
 
 Most of my serious work lives in private repos, but I'm working on pushing more stuff public over time.
 
